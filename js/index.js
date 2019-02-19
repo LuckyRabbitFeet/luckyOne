@@ -1,7 +1,7 @@
 !(function(){
     'use strict';
 
-    var file_num = 13;
+    var file_num = 21;
     var photo_row = 6;
     var photo_col = 10;
     var photo_num = photo_row * photo_col;
